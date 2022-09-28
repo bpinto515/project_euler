@@ -1,7 +1,6 @@
-# my_projects
+# Project_Euler
 
-Project_Euler
-  -> Contains exercises from project Euler solved in Python3
+Exercises solved in Python 3 by Bruno Pinto for
+learning and/or exercising.
 
-Omnistack
-  -> Tutorial to build a nodejs + React App
+user: brunop515
